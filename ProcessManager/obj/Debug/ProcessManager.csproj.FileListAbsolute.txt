@@ -1,0 +1,10 @@
+D:\CsharpProjects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe.config
+D:\CsharpProjects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+D:\CsharpProjects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojAssemblyReference.cache
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
+D:\CsharpProjects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Form1.resources
